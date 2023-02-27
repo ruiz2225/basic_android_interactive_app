@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">InteractiveApp</string>
+    <string name="strg_btn_luky">Dame suerte</string>
+    <string name="strg_txt_luky_number">Mi número de la suerte</string>
+    <string name="strg_msg_button_clicked">El botón de la suerte ha sido pulsado</string>
 </resources>
